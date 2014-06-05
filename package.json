@@ -1,0 +1,33 @@
+{
+  "name": "canvas-pixels",
+  "version": "0.0.0",
+  "description": "Grab the pixels from a canvas' context, be it 2D or 3D, and return them in an array.",
+  "main": "index.js",
+  "scripts": {
+    "test": "beefy test.js --open"
+  },
+  "author": "Hugh Kennedy <hughskennedy@gmail.com> (http://hughsk.io/)",
+  "license": "MIT",
+  "devDependencies": {
+    "beefy": "^1.1.0",
+    "tape": "^2.13.2"
+  },
+  "dependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hughsk/canvas-pixels.git"
+  },
+  "bugs": {
+    "url": "https://github.com/hughsk/canvas-pixels/issues"
+  },
+  "homepage": "https://github.com/hughsk/canvas-pixels",
+  "keywords": [
+    "canvas",
+    "webgl",
+    "context",
+    "pixel",
+    "array",
+    "data",
+    "color"
+  ]
+}
